@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Pavithra Ravichandran"
+	"author": "Pavithra Ravichandran",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
